@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Official Block Trek</string>
+    <string name="title_activity_authentication">Block Trek Academy</string>
+    <string name="title_activity_main_home">Block Trek Academy</string>
+    <string name="message_text"></string>
+    <string name="title_activity_mainpage">Block Trek Academy</string>
+</resources>
